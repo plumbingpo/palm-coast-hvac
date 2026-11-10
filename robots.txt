@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://palmcoasthvacco.com/sitemap.xml
